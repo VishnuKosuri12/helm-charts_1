@@ -351,6 +351,7 @@ networkPolicy:
     #           operator: In
     #           values:
     #             - frontend
+    #                  type: string
 
 tests:
   enabled: true
